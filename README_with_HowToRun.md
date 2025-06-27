@@ -42,10 +42,9 @@ A clean web app to analyze stock prices using moving averages with investment su
 
 ---
 
-## 📸 Preview
 
-> *(Insert screenshot or GIF of the app)*  
-![App Preview](assets/preview.png)
+
+
 
 ---
 
@@ -125,4 +124,4 @@ MIT License © 2025 Sunny Mishra
 
 ---
 
-⭐ **If you found this useful, give it a star and share!**
+
