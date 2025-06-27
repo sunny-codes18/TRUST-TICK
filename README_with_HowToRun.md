@@ -1,7 +1,5 @@
 <!-- Greeting Animation (typewriter effect) -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there+👋+I'm+Sunny+Mishra;Aspiring+Machine+Learning+Engineer;Python+%7C+Flask+%7C+Data+Science+Enthusiast;Builder+of+Real-World+Solutions" alt="Typing SVG" />
-</h1>
+
 
 ---
 
@@ -42,6 +40,13 @@ A clean web app to analyze stock prices using moving averages with investment su
 
 ---
 
+## 📷 Web App Preview
+
+![Stock Price Analyzer Screenshot](![Screenshot 2025-06-27 171131](https://github.com/user-attachments/assets/bfa88a7b-1f51-4e34-b9ce-6e3a34951ce4)
+![Screenshot 2025-06-27 171157](https://github.com/user-attachments/assets/494486b5-7c75-46e0-a1b3-0bc7a7dd9c08)
+![Screenshot 2025-06-27 171217](https://github.com/user-attachments/assets/1eb0cb1c-f7f5-4fad-bfb6-7839b690e54a)
+![Screenshot 2025-06-27 171240](https://github.com/user-attachments/assets/161c8f01-a007-42e1-b49a-f9838909543a)
+)
 
 
 
@@ -113,8 +118,7 @@ interests: [Machine Learning, Real-world Projects, OpenCV]
 currently_learning: Deep Learning, Web Deployment
 ```
 
-Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+
 
 ---
 
